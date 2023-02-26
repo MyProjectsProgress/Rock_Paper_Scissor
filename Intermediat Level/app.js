@@ -31,7 +31,6 @@ for (let i = 0; i < choices.length; i++) {
 
 const getResult = () => {
     switch (userChoice + computerChoice) {
-
         case 'scissorspaper':
         case 'rockscissors':
         case 'paperrock':
